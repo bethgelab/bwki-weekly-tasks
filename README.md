@@ -24,7 +24,7 @@ How to implement a new task to the taskpool of ki-kurs.org ?!
     "studenttask": true
   }]
 
-11. Push your changes to your feature branch
+11. Push your changes to GitHub
 
 12. Set up a PR and set one of the SEs as a reviewer, they will review and deploy the changes.
 
