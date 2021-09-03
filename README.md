@@ -10,7 +10,7 @@ How to implement a new task to the taskpool of ki-kurs.org ?!
 5. Put in: Githubrepo: https://github.com/bethgelab/bwki-weekly-tasks.git head: master path to notebook: Aufgabe-(number from above).ipynb
 6. Copy Binder Link for solution as well as for task.
 7. Go to the repo of the courseplatform
-8. **Create a feature branch from development_2 !!! **
+8. **Create a feature branch from development_2 !!!**
 9. Go to --> courseplatform/frontend/src/tasks.json
 10. Copy the last task and replace elements by your infos. Thats how it should look like: 
   {
