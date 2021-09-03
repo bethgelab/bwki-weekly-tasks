@@ -13,6 +13,8 @@ How to implement a new task to the taskpool of ki-kurs.org ?!
 8. **Create a feature branch from development_2 !!!**
 9. Go to --> courseplatform/frontend/src/tasks.json
 10. Copy the last task and replace elements by your infos. Thats how it should look like: 
+
+```json
   {
     "title":"Schriftfarbenvorhersager",
     "difficulty": 2,
@@ -23,6 +25,7 @@ How to implement a new task to the taskpool of ki-kurs.org ?!
     "solution": "https://mybinder.org/v2/gh/bethgelab/bwki-weekly-tasks/master?filepath=%2FSchueleraufgaben%2FSchriftfarbenwahl_Aufgabe%2Floesung_schriftfarben_vorhersage.ipynb",
     "studenttask": true
   }]
+```
 
 11. Push your changes to GitHub
 
