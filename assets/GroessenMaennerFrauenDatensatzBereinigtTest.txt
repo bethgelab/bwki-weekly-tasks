@@ -1,0 +1,11 @@
+Geschlecht,Koerpergroesse,Schuhgroesse
+Frau,161,41
+Mann,175,43
+Frau,159,39
+Frau,176,40
+Mann,181,44
+Mann,178,42
+Frau,157,37
+Frau,160,38
+Mann,169,41
+Mann,182,43
